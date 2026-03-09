@@ -10,7 +10,7 @@
   --gold: #b8922a;
   --pale-gold: #e8d9a0;
   --muted: #8a8478;
-  --border: #d4cfc4; 
+  --border: #d4cfc4;
   --accent-line: #4a5c40;
 }
 
@@ -21,7 +21,7 @@ html { scroll-behavior: smooth; }
 body {
   background: var(--warm-white);
   color: var(--ink);
-  font-family: 'Libre Baskerville', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 17px;
   line-height: 1.75;
   min-height: 100vh;
@@ -218,17 +218,22 @@ nav a:hover { color: var(--deep-sage); }
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 .we-diagram {
-  width: 320px;
-  height: 320px;
+  width: min(320px, 100%);
+  height: min(320px, 100%);
+  max-width: 320px;
+  max-height: 320px;
   position: relative;
+  flex-shrink: 0;
 }
 
 .we-diagram svg {
   width: 100%;
   height: 100%;
+  display: block;
 }
 
 /* ── MARQUEE ── */
