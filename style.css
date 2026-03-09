@@ -222,17 +222,17 @@ nav a:hover { color: var(--deep-sage); }
 }
 
 .we-diagram {
-  width: 320px;
-  height: 320px;
-  max-width: 320px;
-  max-height: 320px;
+  width: 480px;
+  height: 480px;
+  max-width: 480px;
+  max-height: 480px;
   flex-shrink: 0;
 }
 
 .we-diagram svg {
   display: block;
-  width: 320px;
-  height: 320px;
+  width: 480px;
+  height: 480px;
 }
 
 /* ── MARQUEE ── */
