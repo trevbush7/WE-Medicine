@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (filterBtns.length) {
     filterBtns.forEach(btn => {
-      btn.addEventListener('click', () => {
+      btn.addEventListener('click', () => { 
         filterBtns.forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
         const filter = btn.dataset.filter;
