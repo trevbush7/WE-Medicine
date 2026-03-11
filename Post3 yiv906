@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YIV-906: From Ancient Formula to Cancer Adjuvant — WE Medicine</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-we">WE Medicine</span>
+        <span class="logo-rest">Beyond the Single Target</span>
+      </a>
+      <nav>
+        <a href="blog.html">Research</a>
+        <a href="topics.html">Topics</a>
+        <a href="about.html">About</a>
+        <a href="blog.html" class="nav-cta">Read</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="post-layout">
+    <article class="post-body">
+      <div class="post-category">Issue 003 — The Case Study</div>
+      <h1 class="fade-in">YIV-906: From Ancient Formula to Cancer Adjuvant</h1>
+      <div class="post-meta">
+        <span>Case Study</span>
+        <span>14 min read</span>
+        <span>YIV-906 · Clinical Oncology</span>
+      </div>
+
+      <p>
+        In 2010, a paper published in <em>Science Translational Medicine</em> reported something
+        unusual. Researchers at Yale had taken a gastrointestinal formula first written down in
+        China roughly 1,800 years ago, standardized it under pharmaceutical-grade manufacturing
+        conditions, and demonstrated in animal models that it could substantially reduce the
+        intestinal damage caused by irinotecan — one of the most widely used chemotherapy
+        agents in colorectal cancer — while simultaneously enhancing its antitumor activity.
+        The formula had four ingredients. None of them were irinotecan. None of them, administered
+        alone, produced the same result. The effect required the complete polychemical system.
+      </p>
+
+      <p>
+        That formula is Huang Qin Tang, a classical TCM preparation historically used to treat
+        diarrhea, nausea, vomiting, and abdominal spasm. Its pharmaceutical-grade derivative,
+        developed by Yung-Chi Cheng at the Yale School of Medicine, is now known as YIV-906
+        (also referred to as PHY906 or KD018). It is composed of four herbs: <em>Scutellaria
+        baicalensis</em> Georgi (skullcap), <em>Paeonia lactiflora</em> Pall. (peony),
+        <em>Glycyrrhiza uralensis</em> Fisch. (licorice), and <em>Ziziphus jujuba</em> Mill.
+        (jujube), combined at a fixed weight ratio and prepared to consistent chemical and
+        biological specifications.
+      </p>
+
+      <p>
+        Over the past two decades, YIV-906 has been evaluated in more than nine Phase I/II to
+        Phase II clinical trials across institutions including Yale University, Stanford University,
+        the UPMC Hillman Cancer Center, City of Hope, and Memorial Sloan Kettering. More than
+        250 patients with liver, pancreatic, colorectal, and rectal cancers have been treated.
+        It has received FDA orphan drug designation for hepatocellular carcinoma. A randomized,
+        double-blind, placebo-controlled Phase II trial in HBV-positive liver cancer patients
+        was actively enrolling at 22 study sites across the United States, mainland China, Hong
+        Kong, and Taiwan.
+      </p>
+
+      <p>
+        YIV-906 is not a cure. It is not a standalone cancer treatment. What makes it
+        scientifically significant — and what makes it a useful case study for the principles
+        introduced in this series — is what it does as an adjuvant: it appears to make
+        chemotherapy work better, hurt less, and do both simultaneously. Unpacking how
+        requires engaging with several layers of biology that the single-target model was not
+        designed to address.
+      </p>
+
+      <h2>Two Problems, One Formula</h2>
+
+      <p>
+        Cancer therapy faces a structural tension that has never been satisfactorily resolved.
+        The agents most effective at killing tumor cells tend also to damage healthy tissue.
+        For the gastrointestinal tract, this problem is acute: the same rapid cellular turnover
+        that makes intestinal epithelium sensitive to chemotherapy is the reason the gut
+        maintains its integrity at all. Drugs that hit dividing cells hard will hit gut lining
+        hard, regardless of where the tumor is. Irinotecan, which works by inhibiting
+        topoisomerase I in cancer cells, produces severe GI toxicity — diarrhea, nausea,
+        mucositis — in a significant proportion of patients. So does capecitabine. So does
+        radiation.
+      </p>
+
+      <p>
+        The conventional approach to this problem is dose reduction: accept less efficacy
+        to avoid intolerable toxicity. What YIV-906 appears to offer is a different trade —
+        one in which GI protection and antitumor enhancement are not alternatives but
+        simultaneously achievable ends. This is not intuitive. An agent that protects normal
+        tissue from chemotherapy might be expected to also protect tumor tissue. YIV-906
+        seems to do the opposite: it selectively modulates the tissue responses in ways that
+        favor normal recovery in the gut and unfavorable outcomes for tumors.
+      </p>
+
+      <p>
+        The mechanistic explanation for why this selectivity exists goes to the heart of what
+        a multi-target, polychemical system can do that a single compound cannot.
+      </p>
+
+      <h2>The Gut: Anti-Inflammatory and Regenerative</h2>
+
+      <p>
+        In the intestine, irinotecan's damage proceeds through a cascade of inflammatory
+        signaling. YIV-906 was shown to interrupt this cascade at multiple nodes simultaneously:
+        it inhibits NF-κB, COX-2, iNOS, and IL-6, all of which are activated during
+        chemotherapy-induced gut inflammation. But suppressing inflammation is only part of
+        the story. The gut also needs to repopulate its damaged epithelium, and YIV-906 was
+        found to potentiate the Wnt signaling pathway — promoting the repopulation of
+        intestinal stem and progenitor cells in the injured mucosa. Protection and repair,
+        operating through different mechanisms, delivered by the same formulation.
+      </p>
+
+      <p>
+        Clinical data have broadly supported this picture. Across trials in colorectal,
+        pancreatic, and hepatocellular cancers — using irinotecan, capecitabine, sorafenib,
+        and chemoradiation — patients receiving YIV-906 consistently showed reduced grade 3
+        and 4 GI toxicities. In the Taiwan Phase II trial of PHY906 plus capecitabine in
+        advanced hepatocellular carcinoma, the incidence of severe nausea and emesis was lower
+        than with capecitabine alone, and quality of life scores did not deteriorate
+        significantly from baseline during the combination therapy. Only two patients
+        discontinued treatment due to adverse effects. This GI protection profile has been
+        observed across cancer types and chemotherapy classes, suggesting the mechanism
+        operates independently of the specific cytotoxic agent involved.
+      </p>
+
+      <h2>The Tumor: Inflammation Inverted</h2>
+
+      <p>
+        In normal tissue, YIV-906 dampens inflammation. In tumor tissue, it appears to do
+        something almost opposite: it converts tumors from immunologically "cold" — largely
+        ignored by the immune system — to "hot," characterized by immune infiltration and
+        active cytotoxic pressure. This is not a contradiction. It reflects a tissue-specific
+        and context-specific biology that a single-target agent is poorly equipped to navigate.
+      </p>
+
+      <p>
+        The sorafenib work, published in <em>Scientific Reports</em> in 2015, illustrated
+        this clearly. Sorafenib alone reduced HepG2 liver tumor growth by about 35% in mouse
+        models. The combination with YIV-906 completely inhibited tumor growth and drove
+        tumor shrinkage — an effect that sorafenib at double or quadruple the dose could not
+        replicate. The mechanism centered on the tumor microenvironment. YIV-906 induced
+        upregulation of MCP-1, a macrophage-recruiting chemokine, drawing immune cells into
+        the tumor. Once there, those macrophages polarized toward the M1 phenotype — the
+        tumor-rejecting, pro-inflammatory phenotype — rather than the M2 phenotype, which
+        supports tumor growth. When macrophages were depleted using clodronate liposomes,
+        YIV-906's enhancement of sorafenib's antitumor activity was substantially reduced,
+        confirming that the macrophage infiltration was causally central to the effect.
+      </p>
+
+      <p>
+        Component analysis confirmed that the full formula was required. Removing the S herb
+        (<em>Scutellaria baicalensis</em>) or the P herb (<em>Paeonia lactiflora</em>)
+        each eliminated the synergistic activity with sorafenib. No single herb delivered
+        the combination's effect. This is a recurring finding across the YIV-906 literature:
+        the formula as a whole does what no subset of it can.
+      </p>
+
+      <h2>The Immune System: A New Frontier</h2>
+
+      <p>
+        The immunology of YIV-906 has become increasingly well-characterized, and it
+        opens up a dimension of the formula's action that was not anticipated from its
+        original GI indication.
+      </p>
+
+      <p>
+        Work published in 2023 by the Cheng laboratory demonstrated that YIV-906 enhances
+        T cell activation through a mechanism centered on SHP1 and SHP2 — two phosphatase
+        enzymes that normally suppress T cell receptor signaling. When PD-1 on a T cell
+        binds PD-L1 on a tumor cell, it recruits SHP2 to dephosphorylate the downstream
+        signaling cascade, effectively switching off the T cell's anti-tumor activity.
+        This is the molecular basis of one of cancer's most clinically significant immune
+        evasion strategies — and the target of the approved anti-PD-1 checkpoint inhibitor
+        antibodies.
+      </p>
+
+      <p>
+        YIV-906 was found to inhibit both SHP1 and SHP2 enzymatic activity, with the
+        S herb again playing the primary role. The result is that the TCR downstream cascade
+        — Lck, Zap70, LAT, Fyn, Pyk2 — remains phosphorylated and active even in the
+        presence of PD-1/PD-L1 interaction. NFAT, the transcription factor that drives
+        T cell activation, stays elevated. CD69, a T cell activation marker, is upregulated.
+        The depressed T cell activity caused by PD-1/PD-L1 signaling is rescued.
+      </p>
+
+      <p>
+        Critically, this mechanism does not depend on the T cell receptor itself. When
+        TCRαβ was knocked out using CRISPR/Cas9, YIV-906 and the S herb continued to
+        promote NFAT activity with similar magnitude, confirming that the formula acts
+        directly on signaling downstream of the receptor. This means that the same SHP1/2
+        inhibitory mechanism that rescues PD-1-suppressed T cells should also enhance CAR
+        T cell function — and in cell culture models using CAR T cells targeting CD19,
+        YIV-906 was shown to increase NFAT-driven killing activity on CD19-expressing tumor
+        cells, including under conditions of PD-L1 overexpression.
+      </p>
+
+      <p>
+        The clinical significance of SHP1/2 dual inhibition is worth pausing on. Most
+        SHP2 inhibitors currently in clinical trials are selective for SHP2, but SHP1 can
+        compensate for SHP2 when the latter is knocked out or inhibited. An agent that
+        inhibits both — as YIV-906 appears to do — may be better positioned to overcome
+        the immune resistance that arises from this redundancy. Combined with YIV-906's
+        documented ability to modulate IDO activity, reduce monocytic MDSCs in the tumor,
+        and promote M1 macrophage polarization, the formula operates across multiple immune
+        suppression axes simultaneously.
+      </p>
+
+      <h2>The Formula Across Cancer Types</h2>
+
+      <p>
+        One of the striking features of the YIV-906 literature is the breadth of its
+        activity across different cancer types and chemotherapy regimens. The same formula —
+        manufactured to the same standard — has shown adjuvant activity in combination with
+        irinotecan-based regimens in colorectal cancer, capecitabine in pancreatic and
+        hepatocellular cancers, sorafenib in liver cancer, and chemoradiation in rectal
+        cancer. This is not what one would expect from a targeted agent with a specific
+        molecular mechanism. It is what one would expect from a system that modulates the
+        tumor microenvironment and host immune biology in ways that amplify a broad range of
+        cytotoxic insults.
+      </p>
+
+      <p>
+        The basic science corroborates this breadth. The mechanisms identified — NF-κB and
+        COX-2 suppression in gut tissue, MCP-1 upregulation and M1 macrophage recruitment
+        in tumors, SHP1/2 inhibition in T cells, Wnt pathway potentiation in intestinal
+        progenitors, ERK1/2 phosphatase inhibition in liver cancer cells — are not
+        cancer-type-specific. They operate on biology that is shared across the oncological
+        landscape. A formula that modulates this biology distributed across multiple
+        compounds and multiple pathways does not need a different mechanism for each
+        indication. Its breadth follows from its architecture.
+      </p>
+
+      <p>
+        More recent work confirms the formula is still yielding new mechanistic insights.
+        Studies using the colitis-associated colorectal cancer model have shown that
+        Huang Qin Tang intervenes at each stage of the inflammation-to-cancer progression:
+        reducing IL-6, IL-1β, and TNF-α during the inflammatory phase; restoring amino
+        acid homeostasis — particularly glutamine, glutamic acid, and arginine — during
+        proliferation; and suppressing the PI3K/AKT/mTOR pathway that drives tumor cell
+        growth and survival. In NSCLC models with EGFR-TKI resistance, the formula
+        attacks cancer stem cell markers by suppressing the STAT3/GPX4 axis and raising
+        reactive oxygen species levels, sensitizing resistant cells to targeted therapy.
+        In colorectal cancer liver metastasis, network pharmacology and single-cell
+        sequencing have identified GOT1, CYP1A2, and CA2 as hub targets through which
+        the formula may disrupt glutamine metabolism and reshape the immunosuppressive
+        tumor microenvironment. The same four herbs. Different cancers. Different
+        mechanisms — and yet a coherent underlying logic of network-level modulation.
+      </p>
+
+      <h2>What the Clinical Data Actually Show</h2>
+
+      <p>
+        It is worth being precise about what the clinical evidence does and does not
+        establish. The Phase II trials completed to date are relatively small, mostly
+        non-randomized or single-arm, and conducted in late-stage patients with limited
+        treatment options. They have consistently demonstrated a favorable safety profile
+        and reduction in GI toxicities. They have shown encouraging survival signals —
+        particularly in the HBV-positive, systemic-therapy-naive subgroup across the U.S.
+        and Taiwan HCC studies, where the combined median overall survival reached 16.5
+        months in evaluable Asian patients, compared to the 6.5 to 10.7 months typical
+        of sorafenib alone in comparable populations. But they have not yet delivered
+        the definitive randomized efficacy data that would establish YIV-906 as a
+        standard adjuvant.
+      </p>
+
+      <p>
+        The pancreatic cancer results are also notable in context. Advanced pancreatic cancer
+        is arguably the hardest oncological setting in which to show clinical benefit: patients
+        who have already failed gemcitabine face a median survival of roughly two months on
+        best supportive care, and there is no established standard second-line therapy. In the
+        first Phase II trial to evaluate any herbal formulation in gemcitabine-refractory
+        pancreatic cancer — 25 patients at Yale Cancer Center treated with YIV-906 plus
+        capecitabine — median overall survival for the full intent-to-treat cohort was 21.6
+        weeks, rising to 28 weeks for the 20 patients who completed at least two cycles.
+        Six-month survival was 44 percent. Two patients achieved confirmed partial responses
+        with survival lengths of 69 and 84 weeks. Quality of life scores, tracked using the
+        Edmonton Symptom Assessment System, improved meaningfully from baseline across
+        fatigue, appetite, nausea, and sense of well-being, with patients who remained on
+        study longer continuing to maintain those gains.
+      </p>
+
+      <p>
+        The pancreatic cancer trial also yielded an unexpected finding from correlative
+        cytokine profiling. Of the sixteen cytokines, chemokines, and growth factors
+        measured in patient plasma, only IL-6 showed a statistically significant difference
+        between short- and long-term survivors (p &lt; 0.001): higher baseline IL-6 correlated
+        strongly with shorter overall survival. This is not surprising given IL-6's established
+        roles in tumor progression, cachexia, and metastasis, but it raises an intriguing
+        possibility — that baseline inflammatory cytokine status may be a useful predictor of
+        who benefits most from the YIV-906 combination. Identifying patient subgroups likely
+        to respond is one of the central challenges facing all adjuvant trials, and having a
+        candidate biomarker to investigate is clinically valuable.
+      </p>
+
+      <p>
+        That data, if it comes, will come from the ongoing randomized, placebo-controlled
+        Phase II trial of YIV-906 plus sorafenib in HBV-positive HCC patients — the trial
+        designed to resolve the most important outstanding questions. Its design reflects
+        the lessons accumulated across a generation of clinical investigation: double-blind,
+        placebo-controlled, with clear inclusion criteria and a defined patient population
+        where the biological rationale for YIV-906's benefit is strongest.
+      </p>
+
+      <h2>A Formula as a Systems Drug</h2>
+
+      <p>
+        The conceptual framework Posts 1 and 2 established — the inadequacy of single-target
+        pharmacology for complex diseases, the emergence of network pharmacology as a way
+        of asking better questions about botanical medicines — finds its most concrete
+        expression in YIV-906. Here is a drug that is not a drug in the conventional sense.
+        It has no single active compound. It has no single target. It has no single
+        mechanism. It is a polychemical system that works on biological networks — in the
+        gut, in the tumor, in the immune microenvironment — simultaneously and through
+        mechanisms that require the full formulation to operate.
+      </p>
+
+      <p>
+        What it demonstrates, more than any preclinical model could, is that this approach
+        is clinically tractable. It can be standardized. It can be manufactured consistently.
+        It can be taken through regulatory processes. It can be combined with conventional
+        drugs without additive toxicity. It can be studied in controlled trials. The
+        challenges are real — the pharmacokinetics of a polychemical formula are more
+        complex to characterize than a single molecule, the mechanism studies more difficult
+        to complete, the regulatory pathway less well-defined. But none of these challenges
+        are insurmountable, and YIV-906's clinical history demonstrates they have been
+        navigated before.
+      </p>
+
+      <p>
+        The deeper significance of YIV-906 is not just what it does, but what it represents:
+        proof that a 1,800-year-old clinical observation about a gastrointestinal formula
+        can be translated, with appropriate scientific rigor, into a sophisticated cancer
+        adjuvant whose mechanisms of action illuminate some of the most active frontiers of
+        contemporary oncology — checkpoint immunotherapy, cancer stem cell biology, metabolic
+        reprogramming, tumor microenvironment remodeling. The ancients did not know about
+        SHP2. They did not know about NFAT or PD-L1 or M1 macrophage polarization. But they
+        knew that this formula, given to sick people, produced better outcomes than its
+        components alone. Two thousand years of clinical observation compressed into a
+        four-herb prescription. What WE Medicine is trying to do is explain why.
+      </p>
+
+      <blockquote>
+        "PHY906 may potentiate various anti-tumor agents that work synergistically in the
+        tumor microenvironment."
+        <br><span style="font-size:0.85em; color:var(--muted);">— Lam et al., Scientific Reports, 2015</span>
+      </blockquote>
+
+      <div style="margin-top:3rem; padding-top:2rem; border-top:1px solid var(--border);">
+        <a href="blog.html" class="read-more" style="margin-top:0;">← Back to all essays</a>
+      </div>
+    </article>
+
+    <aside class="post-sidebar">
+      <div class="sidebar-block">
+        <h3>This Issue</h3>
+        <p style="font-size:0.82rem; color:var(--muted);">Issue 003 — The flagship case study. How a 1,800-year-old GI formula became a cancer adjuvant with mechanisms spanning immunotherapy, metabolic biology, and the tumor microenvironment.</p>
+      </div>
+      <div class="sidebar-block">
+        <h3>Key Terms</h3>
+        <ul>
+          <li>YIV-906 / PHY906</li>
+          <li>Adjuvant therapy</li>
+          <li>Tumor microenvironment</li>
+          <li>SHP1/2 inhibition</li>
+          <li>M1/M2 macrophage polarization</li>
+          <li>NFAT · PD-1/PD-L1</li>
+          <li>Cancer stem cells</li>
+        </ul>
+      </div>
+      <div class="sidebar-block">
+        <h3>Primary Sources</h3>
+        <p style="font-size:0.8rem; color:var(--muted); line-height:1.6;">
+          Lam W et al. (2010). <em>The four-herb Chinese medicine PHY906 reduces chemotherapy-induced gastrointestinal toxicity.</em> Sci Transl Med 2:45ra59.<br><br>
+          Lam W et al. (2015). <em>PHY906(KD018), an adjuvant based on a 1800-year-old Chinese medicine, enhanced the anti-tumor activity of Sorafenib.</em> Sci Rep 5:9384.<br><br>
+          Lam W et al. (2023). <em>YIV-906 enhances NFAT activity of T cells and promotes immune checkpoint blockade antibody action and CAR T-cell activity.</em> Front Pharmacol 13:1095186.<br><br>
+          Changou CA et al. (2021). <em>A Phase II clinical trial on the combination therapy of PHY906 plus capecitabine in hepatocellular carcinoma.</em> Oncologist 26:e367–e373.<br><br>
+          Wang D et al. (2024). <em>Huangqin tang alleviates colitis-associated colorectal cancer via amino acids homeostasis and PI3K/AKT/mTOR pathway modulation.</em> J Ethnopharmacol 334:118597.<br><br>
+          Yu et al. (2026). <em>Huang-qin decoction increases the sensitivity of EGFR-TKIs to NSCLC cells by regulating stat3/GPX4.</em> J Trad Complement Med 16:82–95.<br><br>
+          Li et al. (2025). <em>Integration of untargeted metabolomics, network pharmacology, scRNA-seq, and molecular dynamics simulation reveals GOT1, CYP1A2, and CA2 as potential targets of Huang Qin Decoction.</em> Pharmaceuticals 18:1052.<br><br>
+          Saif MW et al. (2014). <em>First-in-human phase II trial of the botanical formulation PHY906 with capecitabine as second-line therapy in patients with advanced pancreatic cancer.</em> Cancer Chemother Pharmacol 73:373–380.
+        </p>
+      </div>
+      <div class="sidebar-block">
+        <h3>Next Issue</h3>
+        <p style="font-size:0.82rem; color:var(--muted); margin-bottom:0.75rem;">Designing Trials for Multi-Target Drugs: The Challenge of Studying Complexity</p>
+        <a href="blog.html" class="read-more" style="margin-top:0; font-size:0.6rem;">Coming soon →</a>
+      </div>
+    </aside>
+  </div>
+
+  <div class="newsletter-section">
+    <div class="newsletter-inner">
+      <h2>Stay in the Network</h2>
+      <p>New essays when they're ready. No noise.</p>
+      <form class="newsletter-form" onsubmit="return false;">
+        <input type="email" placeholder="your@email.com">
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+  </div>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="logo-we">WE Medicine</span>
+        <p>Exploring the convergence of Western pharmacology and Eastern botanical medicine through rigorous systems biology.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Topics</h4>
+        <a href="blog.html">The Paradigm</a>
+        <a href="blog.html">Systems Pharmacology</a>
+        <a href="blog.html">Botanical Science</a>
+        <a href="blog.html">Research Methods</a>
+      </div>
+      <div class="footer-col">
+        <h4>Site</h4>
+        <a href="index.html">Home</a>
+        <a href="blog.html">All Posts</a>
+        <a href="about.html">About</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>WE Medicine — Beyond the Single Target</p>
+      <p>Inspired by Cheng et al., 2019</p>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
