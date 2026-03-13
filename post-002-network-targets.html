@@ -13,10 +13,6 @@
   
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" type="image/png" href="assets/WE.png">
-  <link rel="apple-touch-icon" href="assets/WE.png">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <title>Network Targets: How Herbal Formulas Work on Multiple Pathways — WE Medicine</title>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -30,7 +26,7 @@
       </a>
       <nav>
         <a href="blog.html">Research</a>
-        <a href="index.html#topics">Topics</a>
+        <a href="topics.html">Topics</a>
         <a href="about.html">About</a>
         <a href="blog.html" class="nav-cta">Read</a>
       </nav>
@@ -64,7 +60,7 @@
 
       <p>
         The term "network pharmacology" was introduced by Andrew Hopkins in 2007, in a brief
-        but consequential paper in <em>Nature Biotechnology</em>. The concept was simple and
+        but consequential paper in <em>Nature Biotechnology</em>.<sup class="cite"><a href="#ref-1">[1]</a></sup> The concept was simple and
         radical at the same time: rather than asking how a drug affects a single target,
         ask how it affects a biological network. Rather than optimizing for potency at one
         site, optimize for modulation across many.
@@ -145,7 +141,7 @@
         more distributed intervention than either alone. Network pharmacology studies of
         formulas like Sijunzi decoction and Zuojinwan have mapped exactly this kind of
         multi-node engagement across the PI3K/Akt/mTOR axis in colorectal cancer cells —
-        identifying not just that the formulas work, but structurally <em>how</em> they work.
+        identifying not just that the formulas work, but structurally <em>how</em> they work.<sup class="cite"><a href="#ref-2">[2]</a></sup>
       </p>
 
       <h2>The Computational Infrastructure</h2>
@@ -176,7 +172,7 @@
         experimentally in cell or animal models. The field has moved quickly enough that
         there are now published guidelines for this workflow, and the number of studies
         using it has grown dramatically since AI tools began accelerating the target
-        prediction and network construction steps.
+        prediction and network construction steps.<sup class="cite"><a href="#ref-3">[3]</a></sup>
       </p>
 
       <p>
@@ -188,7 +184,7 @@
         head-to-head and found that modeling how a formula's targets propagate their influence
         across a network that integrates both protein interactions <em>and</em> biological
         functions — a multiscale interactome — consistently outperformed simpler proximity
-        measures. The method is more computationally demanding, but it captures something
+        measures.<sup class="cite"><a href="#ref-5">[5]</a></sup> The method is more computationally demanding, but it captures something
         the simpler approaches miss: that therapeutic effects arise not just from where a drug's
         targets sit in a network, but from how their influence diffuses through layers of
         biological organization.
@@ -211,7 +207,7 @@
         over 1,600 unique targets for compounds where another listed far fewer.
         Which targets a researcher finds depends, in no small part, on which database
         they happen to use. The mechanism of action they report is partly a function of
-        their data source.
+        their data source.<sup class="cite"><a href="#ref-5">[5]</a></sup>
       </p>
 
       <p>
@@ -266,10 +262,21 @@
         "Network targets emphasise understanding the broader biological mechanisms —
         not just the drug's effect on one or multiple targets, but how the system
         as a whole is modulated."
-        <br><span style="font-size:0.85em; color:var(--muted);">— Joshi et al., Naunyn-Schmiedeberg's Archives of Pharmacology, 2025</span>
+        <br><span style="font-size:0.85em; color:var(--muted);">— Joshi et al., Naunyn-Schmiedeberg's Archives of Pharmacology, 2025<sup class="cite"><a href="#ref-4">[4]</a></sup></span>
       </blockquote>
 
-      <div style="margin-top:3rem; padding-top:2rem; border-top:1px solid var(--border);">
+      <div class="post-references" id="references">
+        <h2>References</h2>
+        <ol>
+          <li id="ref-1">Hopkins AL. (2007). Network pharmacology. <em>Nature Biotechnology</em>, 25(10), 1110–1111. <a href="https://doi.org/10.1038/nbt1007-1110" target="_blank" rel="noopener">doi:10.1038/nbt1007-1110</a></li>
+          <li id="ref-2">Zhai J, Xu L, Ding J, et al. (2025). Network pharmacology: a crucial approach in traditional Chinese medicine research. <em>Chinese Medicine</em>, 20:8. <a href="https://doi.org/10.1186/s13020-025-01057-6" target="_blank" rel="noopener">doi:10.1186/s13020-025-01057-6</a></li>
+          <li id="ref-3">Li C &amp; Kar S. (2025). Leveraging network pharmacology for drug discovery and development. <em>Medicine in Drug Discovery</em>, 27:100196. <a href="https://doi.org/10.1016/j.medidd.2025.100196" target="_blank" rel="noopener">doi:10.1016/j.medidd.2025.100196</a></li>
+          <li id="ref-4">Joshi CP, Wagh NS, Joshi YM, Agrawal YO. (2025). Harnessing network pharmacology in drug discovery and development. <em>Naunyn-Schmiedeberg's Archives of Pharmacology</em>, 398. <a href="https://doi.org/10.1007/s00210-024-03595-y" target="_blank" rel="noopener">doi:10.1007/s00210-024-03595-y</a></li>
+          <li id="ref-5">Lee WY, Li N, Lin SH, et al. (2025). Evaluating the current status and advances in network pharmacology research for herbal medicine. <em>Journal of Advanced Research</em>, 76. <a href="https://doi.org/10.1016/j.jare.2024.06.023" target="_blank" rel="noopener">doi:10.1016/j.jare.2024.06.023</a></li>
+        </ol>
+      </div>
+
+      <div style="margin-top:2rem;">
         <a href="blog.html" class="read-more" style="margin-top:0;">← Back to all essays</a>
       </div>
     </article>
