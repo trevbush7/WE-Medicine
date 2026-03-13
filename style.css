@@ -44,10 +44,11 @@ body::before {
 /* ── HEADER ── */
 header {
   border-bottom: 1px solid var(--border);
-  background: var(--warm-white);
+  background: #faf7f2; /* fully opaque - no transparency bleed on iOS scroll */
   position: sticky;
   top: 0;
   z-index: 100;
+  -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
 }
 
@@ -114,6 +115,7 @@ nav a:hover { color: var(--deep-sage); }
   padding: 0.65rem 1rem;
   border-radius: 2px;
   min-height: 44px;
+  align-self: center;
 }
 
 .nav-cta:hover { background: var(--ink); color: var(--warm-white) !important; }
@@ -874,7 +876,7 @@ footer {
   .logo-we { font-size: 1.5rem; }
   nav { gap: 0.5rem; }
   nav a { font-size: 0.62rem; letter-spacing: 0.06em; padding: 0.75rem 0.2rem; }
-  .nav-cta { padding: 0.5rem 0.75rem; font-size: 0.62rem; }
+  .nav-cta { padding: 0.5rem 0.75rem; font-size: 0.62rem; min-height: unset; align-self: center; }
 
   .topics-grid { grid-template-columns: 1fr; }
   .posts-grid { grid-template-columns: 1fr; }
